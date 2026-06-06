@@ -2,69 +2,103 @@
   "perfil": {
     "nombre": "Mari Angarita",
     "usuario": "@mariangarita",
-    "bio": "Hola, soy Mari! Te invito a soñar conmigo escuchando mi música",
+    "bio": "Hola, soy Mari! Te invito a soÃ±ar conmigo escuchando mi mÃºsica",
     "foto": "",
     "fotoBg": ""
   },
   "diseno": {
     "colorBg": "#1a1028",
-    "colorBg2": "#221535",
     "colorAccent": "#c4a0e8",
     "colorTexto": "#f0eaf8",
-    "colorCard": "rgba(255,255,255,0.055)",
-    "colorBorde": "rgba(255,255,255,0.09)",
-    "fontDisplay": "Cormorant Garamond",
-    "fontBody": "DM Sans",
+    "gradienteColor": "rgba(140,80,200,0.18)",
     "gradienteActivo": true,
-    "gradienteColor": "rgba(140,80,200,0.18)"
+    "fontDisplay": "Cormorant Garamond",
+    "fontBody": "DM Sans"
   },
   "redes": [
-    { "id": "r1", "icono": "instagram", "url": "https://www.instagram.com/mariangarita_", "activo": true },
-    { "id": "r2", "icono": "youtube",   "url": "https://www.youtube.com/@MariAngarita", "activo": true },
-    { "id": "r3", "icono": "tiktok",   "url": "https://www.tiktok.com/@mariangarita_", "activo": true },
-    { "id": "r4", "icono": "email",    "url": "mailto:management@mariangarita.com", "activo": true },
-    { "id": "r5", "icono": "spotify",  "url": "https://open.spotify.com/artist/4gzpq5DuGd5OB1ZAXH9VfA", "activo": true }
+    {
+      "id": "r1",
+      "icono": "instagram",
+      "url": "https://www.instagram.com/mariangarita_",
+      "activo": true
+    },
+    {
+      "id": "r2",
+      "icono": "youtube",
+      "url": "https://www.youtube.com/@MariAngarita",
+      "activo": true
+    },
+    {
+      "id": "r3",
+      "icono": "tiktok",
+      "url": "https://www.tiktok.com/@mariangarita_",
+      "activo": true
+    },
+    {
+      "id": "r4",
+      "icono": "email",
+      "url": "mailto:management@mariangarita.com",
+      "activo": true
+    },
+    {
+      "id": "r5",
+      "icono": "spotify",
+      "url": "https://open.spotify.com/artist/4gzpq5DuGd5OB1ZAXH9VfA",
+      "activo": true
+    }
   ],
   "links": [
     {
-      "id": "lnk1", "tipo": "evento", "activo": true,
-      "titulo": "Living Room Sessions · Hotel W Bogotá",
-      "subtitulo": "18 de junio · 7pm · Entrada libre",
+      "id": "lnk1",
+      "tipo": "evento",
+      "activo": true,
+      "titulo": "Living Room Sessions Â· Hotel W BogotÃ¡",
+      "subtitulo": "18 de junio Â· 7pm Â· Entrada libre",
       "url": "https://luma.com/7rooa032"
     },
     {
-      "id": "lnk2", "tipo": "entrevista", "activo": true,
+      "id": "lnk2",
+      "tipo": "entrevista",
+      "activo": true,
       "titulo": "Maria Angarita en Laud Estereo",
-      "subtitulo": "YouTube · LAUD 90.4 FM Estereo",
+      "subtitulo": "YouTube Â· LAUD 90.4 FM Estereo",
       "url": "https://youtu.be/YEy6eRfrJ_g?si=ZPneZklMifPMWzwO"
     },
     {
-      "id": "lnk3", "tipo": "musica", "activo": true,
-      "titulo": "Lo que quiero recordar — EP",
-      "subtitulo": "Spotify · 2026 · 5 canciones",
+      "id": "lnk3",
+      "tipo": "musica",
+      "activo": true,
+      "titulo": "Lo que quiero recordar â EP",
+      "subtitulo": "Spotify Â· 2026 Â· 5 canciones",
       "url": "https://open.spotify.com/intl-es/album/11VJrAmNHMXk8PrgREwcSA"
     },
     {
-      "id": "lnk4", "tipo": "video", "activo": true,
-      "titulo": "A mi lado — video oficial",
-      "subtitulo": "YouTube · Mari Angarita",
+      "id": "lnk4",
+      "tipo": "video",
+      "activo": true,
+      "titulo": "A mi lado â video oficial",
+      "subtitulo": "YouTube Â· Mari Angarita",
       "url": "https://youtu.be/jMruzgrAzUc?si=wjHbsBISl_sKiFIv"
     },
     {
-      "id": "lnk5", "tipo": "entrevista", "activo": true,
-      "titulo": "Artistas al micrófono",
-      "subtitulo": "YouTube · entrevista",
+      "id": "lnk5",
+      "tipo": "entrevista",
+      "activo": true,
+      "titulo": "Artistas al micrÃ³fono",
+      "subtitulo": "YouTube Â· entrevista",
       "url": "https://youtu.be/aKf1pzrMJHQ"
     },
     {
-      "id": "lnk6", "tipo": "entrevista", "activo": false,
-      "titulo": "Sesión en vivo · Universidad El Bosque",
-      "subtitulo": "YouTube · sesión en vivo",
+      "id": "lnk6",
+      "tipo": "entrevista",
+      "activo": false,
+      "titulo": "SesiÃ³n en vivo Â· Universidad El Bosque",
+      "subtitulo": "YouTube Â· sesiÃ³n en vivo",
       "url": ""
     }
   ],
   "contacto": {
     "email": "management@mariangarita.com",
-    "texto": "Contacto · booking y prensa"
+    "texto": "Contacto Â· booking y prensa"
   }
 }
