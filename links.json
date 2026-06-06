@@ -51,34 +51,34 @@
     {
       "id": "lnk1",
       "tipo": "evento",
-      "activo": true,
-      "titulo": "Living Room Sessions Â· Hotel W BogotÃ¡",
-      "subtitulo": "18 de junio Â· 7pm Â· Entrada libre",
-      "url": "https://luma.com/7rooa032"
+      "titulo": "Living Room Sessions Mari Angarita & SAMU",
+      "subtitulo": "jueves, 18 de junio",
+      "url": "https://luma.com/7rooa032",
+      "activo": true
     },
     {
       "id": "lnk2",
       "tipo": "entrevista",
-      "activo": true,
       "titulo": "Maria Angarita en Laud Estereo",
-      "subtitulo": "YouTube Â· LAUD 90.4 FM Estereo",
-      "url": "https://youtu.be/YEy6eRfrJ_g?si=ZPneZklMifPMWzwO"
+      "subtitulo": "YouTube · LAUD 90.4 FM Estereo",
+      "url": "https://youtu.be/YEy6eRfrJ_g?si=EZmkIny9caoBWK7s",
+      "activo": true
     },
     {
       "id": "lnk3",
       "tipo": "musica",
-      "activo": true,
-      "titulo": "Lo que quiero recordar â EP",
-      "subtitulo": "Spotify Â· 2026 Â· 5 canciones",
-      "url": "https://open.spotify.com/intl-es/album/11VJrAmNHMXk8PrgREwcSA"
+      "titulo": "Lo que quiero recordar EP",
+      "subtitulo": "Spotify · 2026 · 5 canciones",
+      "url": "https://open.spotify.com/intl-es/artist/4cqWls4F82UfOiwCMdP3mN?si=Dv4i-YXYQoyyvc2mG8Q4TA",
+      "activo": true
     },
     {
       "id": "lnk4",
       "tipo": "video",
-      "activo": true,
-      "titulo": "A mi lado â video oficial",
-      "subtitulo": "YouTube Â· Mari Angarita",
-      "url": "https://youtu.be/jMruzgrAzUc?si=wjHbsBISl_sKiFIv"
+      "titulo": "A mi lado video oficial",
+      "subtitulo": "YouTube · Mari Angarita",
+      "url": "https://youtu.be/jMruzgrAzUc?si=DiB95b-fsLgssDXf",
+      "activo": true
     },
     {
       "id": "lnk5",
