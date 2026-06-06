@@ -83,18 +83,18 @@
     {
       "id": "lnk5",
       "tipo": "entrevista",
-      "activo": true,
-      "titulo": "Artistas al micrÃ³fono",
-      "subtitulo": "YouTube Â· entrevista",
-      "url": "https://youtu.be/aKf1pzrMJHQ"
+      "titulo": "Artistas al microfono",
+      "subtitulo": "YouTube · entrevista",
+      "url": "https://youtu.be/aKf1pzrMJHQ?si=KWmXoi2aT8zQT1YP",
+      "activo": true
     },
     {
       "id": "lnk6",
       "tipo": "entrevista",
-      "activo": false,
-      "titulo": "SesiÃ³n en vivo Â· Universidad El Bosque",
-      "subtitulo": "YouTube Â· sesiÃ³n en vivo",
-      "url": ""
+      "titulo": "Sesión en vivo · Universidad El Bosque",
+      "subtitulo": "YouTube · Sesión en vivo",
+      "url": "https://youtu.be/1TD3_qLVd8I?si=4Bkvtn4tmWGJCcAW",
+      "activo": true
     }
   ],
   "contacto": {
