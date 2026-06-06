@@ -25,13 +25,13 @@
     {
       "id": "r2",
       "icono": "youtube",
-      "url": "https://www.youtube.com/@MariAngarita",
+      "url": "https://www.youtube.com/@soymariangarita",
       "activo": true
     },
     {
       "id": "r3",
       "icono": "tiktok",
-      "url": "https://www.tiktok.com/@mariangarita_",
+      "url": "https://www.tiktok.com/@soymariangarita",
       "activo": true
     },
     {
@@ -43,7 +43,7 @@
     {
       "id": "r5",
       "icono": "spotify",
-      "url": "https://open.spotify.com/artist/4gzpq5DuGd5OB1ZAXH9VfA",
+      "url": "https://open.spotify.com/intl-es/artist/4cqWls4F82UfOiwCMdP3mN?si=Dv4i-YXYQoyyvc2mG8Q4TA",
       "activo": true
     }
   ],
