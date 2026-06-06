@@ -2,7 +2,7 @@
   "perfil": {
     "nombre": "Mari Angarita",
     "usuario": "@mariangarita",
-    "bio": "Hola, soy Mari! Te invito a soÃ±ar conmigo escuchando mi mÃºsica",
+    "bio": "¡Hola, soy Mari! Te invito a soñar conmigo escuchando mi música",
     "foto": "",
     "fotoBg": ""
   },
@@ -99,6 +99,6 @@
   ],
   "contacto": {
     "email": "management@mariangarita.com",
-    "texto": "Contacto Â· booking y prensa"
+    "texto": "Contacto · booking y prensa"
   }
 }
