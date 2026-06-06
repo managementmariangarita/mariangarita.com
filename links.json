@@ -1,0 +1,66 @@
+{
+  "nombre": "Mari Angarita",
+  "bio": "Hola, soy Mari! Te invito a soñar conmigo escuchando mi música",
+  "foto": "",
+  "redes": [
+    { "icono": "instagram", "url": "https://www.instagram.com/mariangarita_" },
+    { "icono": "youtube",   "url": "https://www.youtube.com/@MariAngarita" },
+    { "icono": "tiktok",   "url": "https://www.tiktok.com/@mariangarita_" },
+    { "icono": "email",    "url": "mailto:management@mariangarita.com" },
+    { "icono": "spotify",  "url": "https://open.spotify.com/artist/4gzpq5DuGd5OB1ZAXH9VfA" }
+  ],
+  "links": [
+    {
+      "id": "lnk1",
+      "tipo": "evento",
+      "titulo": "Living Room Sessions · Hotel W Bogotá",
+      "subtitulo": "18 de junio · 7pm · Entrada libre",
+      "url": "https://luma.com/7rooa032",
+      "activo": true
+    },
+    {
+      "id": "lnk2",
+      "tipo": "entrevista",
+      "titulo": "Maria Angarita en Laud Estereo",
+      "subtitulo": "YouTube · LAUD 90.4 FM Estereo",
+      "url": "https://youtu.be/YEy6eRfrJ_g?si=ZPneZklMifPMWzwO",
+      "activo": true
+    },
+    {
+      "id": "lnk3",
+      "tipo": "musica",
+      "titulo": "Lo que quiero recordar — EP",
+      "subtitulo": "Spotify · 2026 · 5 canciones",
+      "url": "https://open.spotify.com/intl-es/album/11VJrAmNHMXk8Prg...",
+      "activo": true
+    },
+    {
+      "id": "lnk4",
+      "tipo": "video",
+      "titulo": "A mi lado — video oficial",
+      "subtitulo": "YouTube · Mari Angarita",
+      "url": "https://youtu.be/jMruzgrAzUc?si=wjHbsBISl_sKiFIv",
+      "activo": true
+    },
+    {
+      "id": "lnk5",
+      "tipo": "entrevista",
+      "titulo": "Artistas al micrófono",
+      "subtitulo": "YouTube · entrevista",
+      "url": "https://youtu.be/aKf1pzrMJHQ",
+      "activo": true
+    },
+    {
+      "id": "lnk6",
+      "tipo": "entrevista",
+      "titulo": "Sesión en vivo · Universidad El Bosque",
+      "subtitulo": "YouTube · sesión en vivo",
+      "url": "https://www.youtube.com/watch?v=TU_URL_SESION",
+      "activo": true
+    }
+  ],
+  "contacto": {
+    "email": "management@mariangarita.com",
+    "texto": "Contacto · booking y prensa"
+  }
+}
