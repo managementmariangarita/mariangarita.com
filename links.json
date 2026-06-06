@@ -1,62 +1,66 @@
 {
-  "nombre": "Mari Angarita",
-  "bio": "Hola, soy Mari! Te invito a soñar conmigo escuchando mi música",
-  "foto": "",
+  "perfil": {
+    "nombre": "Mari Angarita",
+    "usuario": "@mariangarita",
+    "bio": "Hola, soy Mari! Te invito a soñar conmigo escuchando mi música",
+    "foto": "",
+    "fotoBg": ""
+  },
+  "diseno": {
+    "colorBg": "#1a1028",
+    "colorBg2": "#221535",
+    "colorAccent": "#c4a0e8",
+    "colorTexto": "#f0eaf8",
+    "colorCard": "rgba(255,255,255,0.055)",
+    "colorBorde": "rgba(255,255,255,0.09)",
+    "fontDisplay": "Cormorant Garamond",
+    "fontBody": "DM Sans",
+    "gradienteActivo": true,
+    "gradienteColor": "rgba(140,80,200,0.18)"
+  },
   "redes": [
-    { "icono": "instagram", "url": "https://www.instagram.com/mariangarita_" },
-    { "icono": "youtube",   "url": "https://www.youtube.com/@MariAngarita" },
-    { "icono": "tiktok",   "url": "https://www.tiktok.com/@mariangarita_" },
-    { "icono": "email",    "url": "mailto:management@mariangarita.com" },
-    { "icono": "spotify",  "url": "https://open.spotify.com/artist/4gzpq5DuGd5OB1ZAXH9VfA" }
+    { "id": "r1", "icono": "instagram", "url": "https://www.instagram.com/mariangarita_", "activo": true },
+    { "id": "r2", "icono": "youtube",   "url": "https://www.youtube.com/@MariAngarita", "activo": true },
+    { "id": "r3", "icono": "tiktok",   "url": "https://www.tiktok.com/@mariangarita_", "activo": true },
+    { "id": "r4", "icono": "email",    "url": "mailto:management@mariangarita.com", "activo": true },
+    { "id": "r5", "icono": "spotify",  "url": "https://open.spotify.com/artist/4gzpq5DuGd5OB1ZAXH9VfA", "activo": true }
   ],
   "links": [
     {
-      "id": "lnk1",
-      "tipo": "evento",
+      "id": "lnk1", "tipo": "evento", "activo": true,
       "titulo": "Living Room Sessions · Hotel W Bogotá",
       "subtitulo": "18 de junio · 7pm · Entrada libre",
-      "url": "https://luma.com/7rooa032",
-      "activo": true
+      "url": "https://luma.com/7rooa032"
     },
     {
-      "id": "lnk2",
-      "tipo": "entrevista",
+      "id": "lnk2", "tipo": "entrevista", "activo": true,
       "titulo": "Maria Angarita en Laud Estereo",
       "subtitulo": "YouTube · LAUD 90.4 FM Estereo",
-      "url": "https://youtu.be/YEy6eRfrJ_g?si=ZPneZklMifPMWzwO",
-      "activo": true
+      "url": "https://youtu.be/YEy6eRfrJ_g?si=ZPneZklMifPMWzwO"
     },
     {
-      "id": "lnk3",
-      "tipo": "musica",
+      "id": "lnk3", "tipo": "musica", "activo": true,
       "titulo": "Lo que quiero recordar — EP",
       "subtitulo": "Spotify · 2026 · 5 canciones",
-      "url": "https://open.spotify.com/intl-es/album/11VJrAmNHMXk8Prg...",
-      "activo": true
+      "url": "https://open.spotify.com/intl-es/album/11VJrAmNHMXk8PrgREwcSA"
     },
     {
-      "id": "lnk4",
-      "tipo": "video",
+      "id": "lnk4", "tipo": "video", "activo": true,
       "titulo": "A mi lado — video oficial",
       "subtitulo": "YouTube · Mari Angarita",
-      "url": "https://youtu.be/jMruzgrAzUc?si=wjHbsBISl_sKiFIv",
-      "activo": true
+      "url": "https://youtu.be/jMruzgrAzUc?si=wjHbsBISl_sKiFIv"
     },
     {
-      "id": "lnk5",
-      "tipo": "entrevista",
+      "id": "lnk5", "tipo": "entrevista", "activo": true,
       "titulo": "Artistas al micrófono",
       "subtitulo": "YouTube · entrevista",
-      "url": "https://youtu.be/aKf1pzrMJHQ",
-      "activo": true
+      "url": "https://youtu.be/aKf1pzrMJHQ"
     },
     {
-      "id": "lnk6",
-      "tipo": "entrevista",
+      "id": "lnk6", "tipo": "entrevista", "activo": false,
       "titulo": "Sesión en vivo · Universidad El Bosque",
       "subtitulo": "YouTube · sesión en vivo",
-      "url": "https://www.youtube.com/watch?v=TU_URL_SESION",
-      "activo": true
+      "url": ""
     }
   ],
   "contacto": {
